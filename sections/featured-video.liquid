@@ -1,0 +1,65 @@
+
+  
+  {% if section.settings.display-wide %}
+  
+  	<div class="home-video">
+      <div class="videoWrapper">
+        {% if section.settings.video_url == blank %}
+          <iframe src="//www.youtube.com/embed/_9VUPq3SxOc?rel=0&showinfo=0&vq=720" width="850" height="480" frameborder="0" allowfullscreen></iframe>
+        {% else %}
+        {% if section.settings.video_url.type == "youtube" %}
+          <iframe src="//www.youtube.com/embed/{{ section.settings.video_url.id }}?rel=0&showinfo=0&vq=720" width="850" height="480" frameborder="0" allowfullscreen></iframe>
+        {% endif %}
+        {% if section.settings.video_url.type == "vimeo" %}
+           <iframe src="//player.vimeo.com/video/{{ section.settings.video_url.id }}?byline=0&portrait=0&badge=0" width="850" height="480" frameborder="0" allowfullscreen></iframe>
+        {% endif %}
+        {% endif %}
+      </div> 
+  </div>
+  
+  {% else %}
+  
+  	<div class="page-width home-video">
+       <div class="videoWrapper">
+        {% if section.settings.video_url == blank %}
+       	 <iframe src="//www.youtube.com/embed/_9VUPq3SxOc?rel=0&showinfo=0&vq=720" width="850" height="480" frameborder="0" allowfullscreen></iframe>
+        {% else %}
+        {% if section.settings.video_url.type == "youtube" %}
+      	  <iframe src="//www.youtube.com/embed/{{ section.settings.video_url.id }}?rel=0&showinfo=0&vq=720" width="850" height="480" frameborder="0" allowfullscreen></iframe>
+        {% endif %}
+        {% if section.settings.video_url.type == "vimeo" %}
+      	  <iframe src="//player.vimeo.com/video/{{ section.settings.video_url.id }}?byline=0&portrait=0&badge=0" width="850" height="480" frameborder="0" allowfullscreen></iframe>
+        {% endif %}
+        {% endif %}
+      </div> 
+    </div>
+  
+  
+  {% endif %}    
+
+
+{% schema %}
+{  
+   "name":"Video",
+   "class": "index-section index-section--flush",
+   "settings":[  
+      {
+      "type": "video_url",
+      "id": "video_url",
+      "label": "YouTube or Vimeo link",
+      "accept": ["youtube", "vimeo"]
+      },
+    {
+      "type": "checkbox",
+      "id": "display-wide",
+	  "label": "Make video full width"
+    }
+   ],
+   "presets":[  
+      {  
+       "name":"Featured video",
+       "category":"Video"
+      }
+   ]
+}
+{% endschema %}
