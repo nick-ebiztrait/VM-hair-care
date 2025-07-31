@@ -1,0 +1,27 @@
+<div class="em3">
+	<div class="page-width em3">
+      
+      <div class="col-sm-12 col-md-4">
+        <h4 class="main-newsletter-text">{{ settings.sign-up-text-main }}</h4>
+        <p class="sub-newsletter-text">{{ settings.sign-up-text-sub }}</p>
+      </div>
+      
+      <div class="col-sm-12 col-md-8 em3-form">
+      	<form action="{{ settings.mailing_list_form_action }}" method="post" class="form-inline space-bottom10" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+          <div class="row">
+            <div class="form-group col-md-4">
+              <label class="sr-only" for="{{ settings.Name_Input_ID }}">Name</label>
+              <input type="text" value="" name="{{ settings.Name_Input_Name }}" class="" id="{{ settings.Name_Input_ID }}" placeholder="First Name">
+            </div>
+            <div class="form-group col-md-4">
+              <label class="sr-only" for="{{ settings.Email_Input_ID }}">Email address</label>
+              <input type="email" value="" name="{{ settings.Email_Input_Name }}" class="required email" id="{{ settings.Email_Input_ID }}" placeholder="Enter Email">
+            </div>
+            <div class="col-md-4">
+              <input type="submit" value="{{ settings.button-text }}" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary btn-block">
+            </div>
+          </div>
+        </form>
+        </div>
+	</div>  
+</div>

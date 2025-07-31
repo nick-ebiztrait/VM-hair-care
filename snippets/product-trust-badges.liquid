@@ -1,0 +1,37 @@
+{% case section.settings.grid %}
+        {% when 1 %}
+        {%- assign max_height = 150 -%}
+     	{%- assign grid_item_width = 'small-up--one-whole' -%}
+    	{% when 2 %}
+        {%- assign max_height = 150 -%}
+     	{%- assign grid_item_width = 'small-up--one-half medium-up--one-half' -%}
+   	 	{% when 3 %}
+      	{%- assign max_height = 150 -%}
+      	{%- assign grid_item_width = 'small--one-third medium-up--one-third' -%}
+        {% endcase %}
+        <div class="Product-Trust-Badge grid text-center">
+          {% if section.settings.grid == 1 %}
+          <div class="badge-single grid__item {{ grid_item_width }}">
+          <img src="{{ section.settings.trust_badge1 | img_url: '150x150' }}">
+          </div>
+          {% endif %}
+          {% if section.settings.grid == 2 %}
+          <div class="badge-single-2 grid__item {{ grid_item_width }}">
+          <img src="{{ section.settings.trust_badge1 | img_url: '150x150' }}">
+          </div>
+          <div class="badge-single-2 grid__item {{ grid_item_width }}">
+          <img src="{{ section.settings.trust_badge2 | img_url: '150x150' }}">
+          </div>
+          {% endif %}
+          {% if section.settings.grid == 3 %}
+          <div class="badge-single-3 grid__item {{ grid_item_width }}">
+          <img src="{{ section.settings.trust_badge1 | img_url: '150x150' }}">
+          </div>
+          <div class="badge-single-3 grid__item {{ grid_item_width }}">
+          <img src="{{ section.settings.trust_badge2 | img_url: '150x150' }}">
+          </div>
+          <div class="badge-single-3 grid__item {{ grid_item_width }}">
+          <img src="{{ section.settings.trust_badge3 | img_url: '150x150' }}">
+          </div> 
+          {% endif %}
+        </div>

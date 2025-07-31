@@ -1,0 +1,46 @@
+<!--- 
+********Side Facets Works by Tags********
+Default is style and color
+Works by checking product tag for a ---->
+
+
+<br>
+<div class="facets side-shop-color">
+    <h4>Shop By Color</h4>
+<ul>
+{% for tag in collection.all_tags %}
+  {% assign tagCount = 0 %}
+  {% for product in collection.products %}
+    {% for productTag in product.tags %}
+      {% if productTag == tag and productTag contains 'Color_' %}
+
+         {% assign tagCount = tagCount | plus: 1 %}
+  
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% if tagCount > 0 %}
+  <li><a class="{{ tag | handle }}" title="{{ tag }}" href="{{ collection.handle }}/{{ tag | handle }}">{{ tag | remove: 'Color_' }} ( {{ tagCount }} )</a></li>
+  {% endif %}
+{% endfor %}
+</ul>  
+</div>  
+<br>
+<div class="facets side-shop-style">
+    <h4>Shop By Style</h4>
+<ul>
+{% for tag in collection.all_tags %}
+  {% assign tagCount = 0 %}
+  {% for product in collection.products %}
+    {% for productTag in product.tags %}
+      {% if productTag == tag and productTag contains 'Style_' %}
+         {% assign tagCount = tagCount | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% if tagCount > 0 %}
+  <li><a class="{{ tag | handle }}" title="{{ tag }}" href="{{ collection.handle }}/{{ tag | handle }}">{{ tag | remove: 'Style_' }} ( {{ tagCount }} )</a></li>
+  {% endif %}
+{% endfor %}
+</ul>  
+</div>  
