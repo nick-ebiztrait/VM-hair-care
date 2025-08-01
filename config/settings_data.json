@@ -1,1 +1,734 @@
-{"current":{"color_body_bg":"#ffffff","color_text":"#444444","color_link_hover":"#48f0bc","color_body_text":"#212428","color_sale_text":"#e067bd","color_borders":"#e8e9eb","color_button":"#e067bd","color_button_hover":"#48f0bc","color_button_text":"#ffffff","color_small_button":"#b5dfd2","color_small_button_hover":"#212428","color_small_button_text":"#ffffff","color_text_field":"#fafafa","color_text_field_text":"#000","color_header_bg":"#ffffff","color_nav_bg":"rgba(0,0,0,0)","color_text_nav":"#a2a2a2","color_text_svghead":"#212428","color_mobilenav_bg":"#000000","color_navbg_dropdown":"#ffffff","color_nav_dropdown_link":"#000000","color_mega_heading":"#333","color_mega_heading_line":"#ddd","color_mega_link":"#444444","color_button_hero":"#e067bd","color_text_hero":"#ffffff","hero_color_image_overlay_text":"#ffffff","color_title_collection_list":"#ffffff","color_image_overlay_text":"#ffffff","color_image_overlay":"#ffffff","image_overlay_opacity":58,"color_bg_em3":"#b5dfd2","color_text_em3":"#212428","color_fieldbg_em3":"#ffffff","color_fieldtext_em3":"#b3b3b3","color_buttonbg_em3":"#212428","color_buttonbg_em3_hover":"#ffffff","color_buttontext_em3":"#b5dfd2","color_footer_bg":"#212428","color_text_footer_text":"#ffffff","color_headingtext_footer":"#b5dfd2","color_text_footer":"#ffffff","color_text_footer_hover":"#e067bd","type_nav_family":"Google_Roboto_400_sans","type_nav_base_size":"16px","type_header_family":"Google_Oswald_400_sans","type_header_base_size":"36px","type_base_family":"Google_Roboto_400_sans","type_base_size":"16px","type_bold_product_titles":false,"color_bg_social_product":"#ffffff","share_facebook":true,"share_twitter":true,"share_pinterest":true,"color_text_social":"#ffffff","color_text_social_hover":"#b5dfd2","social_twitter_link":"https:\/\/twitter.com\/DiModaHairCare","social_facebook_link":"https:\/\/www.facebook.com\/pages\/VMHaircare\/174790602567792","social_google_link":"","social_pinterest_link":"https:\/\/www.pinterest.ca\/matthewjviers\/","social_instagram_link":"https:\/\/www.instagram.com\/dimodahair\/","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"","social_vimeo_link":"","favicon":"shopify:\/\/shop_images\/logo_ba924707-c270-4984-a9ee-e36a7c014b1e.png","sign-up-text-main":"Sign Up For Our Newsletter","sign-up-text-sub":"Get great deals sent directly to your inbox!","button-text":"Sign Up","mailing_list_form_action":"","Name_Input_ID":"","Name_Input_Name":"","Email_Input_ID":"","Email_Input_Name":"","checkout_header_image":"","checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_body_background_image":"","checkout_body_background_color":"#fff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#fafafa","checkout_heading_font":"Helvetica Neue","checkout_body_font":"Helvetica Neue","checkout_accent_color":"#1990c6","checkout_button_color":"#1990c6","checkout_error_color":"#ff6d6d","sign-up-text":"sign up now!","sections":{"header":{"type":"header","blocks":{"1519853936747":{"type":"menu","settings":{"mega-nav":"","title":"Menu Heading1"}},"1519854004209":{"type":"menu","settings":{"mega-nav":"","title":"Menu Heading"}},"1519853945364":{"type":"menu","settings":{"mega-nav":"","title":"Menu Heading"}},"1519853952535":{"type":"menu","settings":{"mega-nav":"","title":"Menu Heading"}},"1519853960459":{"type":"image","settings":{"title":"CTA Heading","nav_promo_link":"\/collections\/all"}}},"block_order":["1519853936747","1519854004209","1519853945364","1519853952535","1519853960459"],"settings":{"align_logo":"center","logo":"shopify:\/\/shop_images\/logo_ba924707-c270-4984-a9ee-e36a7c014b1e.png","logo_max_width":"100","phone_enable":false,"phone_number":"714-457-1618","message":true,"home_page_only":false,"message_text":"Free shipping at $30!","message_link":"","color_bg":"#e067bd","color_text":"#ffffff","main_linklist":"main-menu","mega_enable":true,"megadropdown_link":"Shop All"}},"feature-row":{"type":"feature-row","settings":{"image":"shopify:\/\/shop_images\/NewImage2.jpg","layout":"left","title":"OUR PRODUCTS","text":"<p>Cleanse and fortify your hair with VM Sulfate Free Shampoos and Conditioners. These are especially great if you have chemically-treated hair or texture concerns.<\/p>\n<p>Use our Rock-n-Roll Styling Paste for effortless style in a matte finish. It's SO quick to use and holds your fantastic look all day!<\/p>\n<p>Protect and polish your hair with VM Haircare's Make It Pretty Smoothing Serum. The luxurious formula&nbsp;&mdash; which features Macadamia and Argan Oils &mdash; will control frizz, shorten styling time and make your hair shine. This is a must have for blowdrying, straightening, all around protection and pampering.<\/p>","button_label":"Shop VM Haircare","button_link":"shopify:\/\/collections\/all"}},"footer":{"type":"footer","blocks":{"1521036547680":{"type":"text","settings":{"text":""}},"1520029629207":{"type":"html","settings":{"code":"<p class=\"text-center\"><img src=\"https:\/\/s3.amazonaws.com\/marketing360verticals\/ecommerce\/img\/safe-secure.png\"><\/p>"}}},"block_order":["1521036547680","1520029629207"],"settings":{"footernav1_label":"Quick Links","footer_linklist":"footer","footernav2_label":"Our Store","footer_linklist_two":"main-menu-2","footernav3_label":"Policies","footer_linklist_three":"policies","imagelink":"\/","footer_newsletter_enable":true,"show_payment_icons":true}},"1504114304372":{"type":"hero","settings":{"image":"shopify:\/\/shop_images\/Hero.jpg","alignment":"top","title":"HAIRCARE","text":"<p>MAKE WAVES, NOT COMPROMISES<\/p>\n<p>FROM CITY BENCH TO SUNNY BEACH<\/p>","hero_size":"large","text_size":"medium","button_label":"Rock your style","button_link":"shopify:\/\/collections\/all"}},"collection-template":{"type":"collection-template","settings":{"layout":"grid","grid":"4","rows":"2","show_collection_image":false,"show_collection_sidenav":true,"show_collectionnavigation":true,"sidenav_title":"Shop Collection","show_collectioncustomnav":false,"show_collectioncustomnav_title":"Custom Menu Title","collection_linklist":"main-menu","show_collection_facets1":false,"facet_title1":"Shop By Color","facet_tag1":"Color_","show_collection_facets2":false,"facet_title2":"Shop By Style","facet_tag2":"Style_","show_collection_facets3":false,"facet_title3":"Shop By Brand","facet_tag3":"Brand_","show_vendor":false,"sort_enable":false,"tags_enable":true}},"1510776135849":{"type":"feature-row","settings":{"image":"shopify:\/\/shop_images\/NewImage1.jpg","layout":"right","title":"Expertly Formulated","text":"<p>As a expert hair stylist, Matthew J. Viers has seen and heard it all. It started with a calls for an easy-to-use hair styling product that would give natural definition and long-lasting hold. Matt responded with Rock-N-Roll Paste, which became a hit with his clients.<\/p>\n<p>They wanted more and Matt obliged by launching VM Haircare with a comprehensive range salon-quality of products. Every item is designed to promote lasting beauty, decrease styling time, and protect hair against all types of damage while restoring health.<\/p>","button_label":"Learn More","button_link":"shopify:\/\/pages\/about-us"}},"product-template":{"type":"product-template","settings":{"image_size":"medium","show_quantity_selector":true,"show_variant_labels":false,"show_swatches":true,"show_vendor":true,"enable_zoom":true,"show_share_buttons":true,"show_related_products":true,"related_title":"Other Products From This Collection","show_trust_badge":true,"product_tagged_with":"hair","grid":3,"trust_badge1":"shopify:\/\/shop_images\/Hydrating_Icon.png","trust_badge2":"shopify:\/\/shop_images\/Sulfate_Free_Icon.png","trust_badge3":"shopify:\/\/shop_images\/Damaged_Hair_Icon.png"}},"list-collections-template":{"type":"list-collections-template","blocks":{"1521132844447":{"type":"collection","settings":{"collection":"hair"}},"1521132851519":{"type":"collection","settings":{"collection":"apparel"}}},"block_order":["1521132844447","1521132851519"],"settings":{"display_type":"selected","sort":"alphabetical","grid":"2"}},"1511982958563":{"type":"custom-content","blocks":{"1511982958563-0":{"type":"text","settings":{"title":"","text":"<p>Here at VM Haircare, we believe that everyone should have it all and make no compromises between being stylish and enjoying life to the fullest. Our founder, Matthew J Viers, is an expert hairstylist who wanted to make his philosophy a reality for his clients. Thus VM Haircare was born: a line of products are designed for ease of use, and formulated for your well-being, so that you can do more while feeling and looking great.<\/p>\n<p><\/p>\n<p>We carry everything you need to care for, style, and make your hair shine. All of our amazing products are proudly produced with the finest ingredients in beautiful Southern California, our founder's home and daily source of inspiration. &nbsp;With VM Haircare, you can be the fashion everyday and make waves, not compromises.&nbsp;<\/p>","button_label":"","button_link":"","width":"100%","alignment":"top-middle","align_text":"center"}}},"block_order":["1511982958563-0"],"settings":{"title":""}},"1511986910645":{"type":"collection","settings":{"title":"fan favorites","collection":"front-page-featured-products","grid":5,"rows":1,"show_vendor":false,"show_view_all":true}},"1513780138066":{"type":"image-bar","blocks":{"1513780138066-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/B3C648C0-7F16-4053-9C32-73F576B7D61A.jpeg","alignment":"center","link":"","cta_label":"STYLE"}},"1525269864061":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/vm_matt_education.jpg","alignment":"center","link":"shopify:\/\/collections\/all","cta_label":"CARE"}},"1513780138066-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/90132B8E-92BF-4018-99D9-561DC6785F46.jpeg","alignment":"center","link":"shopify:\/\/collections\/all","cta_label":"SHINE"}}},"block_order":["1513780138066-0","1525269864061","1513780138066-1"],"settings":{"section_height":"medium"}},"blog-template":{"type":"blog-template","settings":{"layout":"grid","blog_show_author":true,"blog_show_date":true}},"article-template":{"type":"article-template","settings":{"blog_show_author":true,"blog_show_date":true,"show_share_buttons":true}},"cart-template":{"type":"cart-template","settings":{"cart_notes_enable":false}}},"content_for_index":["1504114304372","1511982958563","feature-row","1513780138066","1510776135849","1511986910645"],"blocks":{"15683396631634586217":{"type":"shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b","disabled":false,"settings":{"button_color":"#000000","button_icon":"chat_bubble","button_text":"chat_with_us","button_horizontal_position":"bottom_right","button_vertical_position":"lowest","greeting_message":"👋 Hi, message us with any questions. We're happy to help!"}}}},"presets":{"Default":{"color_text":"#3d4246","color_body_text":"#788188","color_sale_text":"#7796A8","color_borders":"#e8e9eb","color_button":"#7796A8","color_button_text":"#fff","color_small_button":"#fff","color_small_button_text":"#3d4246","color_text_field":"#fff","color_text_field_text":"#000","color_image_overlay_text":"#fff","color_image_overlay":"#3d4246","image_overlay_opacity":"25","color_body_bg":"#fff","type_header_family":"Google_Work+Sans_600_sans","type_header_base_size":"26px","type_base_family":"Google_Work+Sans_400_sans","type_base_size":"16px","type_bold_product_titles":false,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"sections":{"header":{"type":"header","settings":{}},"hero":{"type":"hero","settings":{"text_size":"large"}},"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{}},"slideshow-1":{"type":"image","settings":{}}},"block_order":["slideshow-0","slideshow-1"],"settings":{}},"featured-collections":{"type":"collection","settings":{"collection":"frontpage"}},"feature-row":{"type":"feature-row","settings":{}},"footer":{"type":"footer","settings":{"footer_linklist_two":""}}},"content_for_index":["hero","featured-collections","feature-row","slideshow"]},"Light":{"color_text":"#162950","color_body_text":"#757575","color_sale_text":"#ff574f","color_borders":"#e4e4e4","color_button":"#ff574f","color_button_text":"#ffffff","color_small_button":"#eaeaea","color_small_button_text":"#162950","color_text_field":"#ffffff","color_text_field_text":"#162950","color_image_overlay_text":"#ffffff","color_image_overlay":"#3d3d3d","image_overlay_opacity":"30","color_body_bg":"#f8f8f8","type_header_family":"Google_Muli_600_sans","type_header_base_size":"26px","type_base_family":"Google_Muli_600_sans","type_base_size":"18px","type_bold_product_titles":true,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"social_twitter_link":"","social_facebook_link":"","social_pinterest_link":"","social_instagram_link":"","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"","social_vimeo_link":"","favicon":"","checkout_header_image":"","checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"small","checkout_body_background_image":"","checkout_body_background_color":"#ffffff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#e8f3f6","checkout_heading_font":"Roboto","checkout_body_font":"Source Sans Pro","checkout_accent_color":"#1990c6","checkout_button_color":"#23314e","checkout_error_color":"#ff6d6d","sections":{"header":{"type":"header","settings":{"align_logo":"left","logo":"","logo_max_width":"135","main_linklist":"main-menu","message":true,"color_bg":"#162950","color_text":"#ffffff"}},"hero":{"type":"hero","settings":{"alignment":"center","hero_size":"x-large","text_size":"large"}},"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"image":"","alignment":"center"}},"1492095993817":{"type":"image","settings":{"image":"","alignment":"center"}}},"block_order":["slideshow-0","1492095993817"],"settings":{"autoplay":true,"autoplay_speed":"6000","slideshow_height":"medium","text_size":"medium"}},"featured-collections":{"type":"collection","settings":{"grid":3,"rows":1,"show_vendor":true,"show_view_all":true}},"footer":{"type":"footer","settings":{"footer_linklist":"main-menu","footer_linklist_two":"footer","footer_newsletter_enable":true,"show_payment_icons":true}},"product-template":{"type":"product-template","settings":{"image_size":"medium","show_quantity_selector":false,"show_variant_labels":true,"show_vendor":false,"enable_zoom":true,"show_share_buttons":true}},"collection-template":{"type":"collection-template","settings":{"layout":"grid","grid":"2","rows":"2","show_collection_image":true,"show_vendor":false,"sort_enable":true,"tags_enable":true}},"1492033809691":{"type":"map","settings":{}},"1492033877875":{"type":"quotes","blocks":{"1492033877875-0":{"type":"quote","settings":{}}},"block_order":["1492033877875-0"],"settings":{}},"1492033924902":{"type":"custom-content","blocks":{"1492033924902-0":{"type":"text","settings":{"width":"100%","alignment":"center","align_text":"center"}}},"block_order":["1492033924902-0"],"settings":{"title":""}},"1492096252560":{"type":"collection-list","blocks":{"1492096252560-0":{"type":"featured_collection","settings":{}},"1492096252560-1":{"type":"featured_collection","settings":{}},"1492096252560-2":{"type":"featured_collection","settings":{}}},"block_order":["1492096252560-0","1492096252560-1","1492096252560-2"],"settings":{"grid":3}},"blog-template":{"type":"blog-template","settings":{"layout":"grid","blog_show_author":true,"blog_show_date":false}},"article-template":{"type":"article-template","settings":{"blog_show_author":true,"blog_show_date":true,"show_share_buttons":true}},"cart-template":{"type":"cart-template","settings":{"cart_notes_enable":false}}},"content_for_index":["hero","featured-collections","slideshow","1492033924902","1492096252560","1492033877875","1492033809691"]}}}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "current": {
+    "color_body_bg": "#ffffff",
+    "color_text": "#444444",
+    "color_link_hover": "#48f0bc",
+    "color_body_text": "#212428",
+    "color_sale_text": "#e067bd",
+    "color_borders": "#e8e9eb",
+    "color_button": "#e067bd",
+    "color_button_hover": "#48f0bc",
+    "color_button_text": "#ffffff",
+    "color_small_button": "#b5dfd2",
+    "color_small_button_hover": "#212428",
+    "color_small_button_text": "#ffffff",
+    "color_text_field": "#fafafa",
+    "color_text_field_text": "#000",
+    "color_header_bg": "#ffffff",
+    "color_nav_bg": "rgba(0,0,0,0)",
+    "color_text_nav": "#a2a2a2",
+    "color_text_svghead": "#212428",
+    "color_mobilenav_bg": "#000000",
+    "color_navbg_dropdown": "#ffffff",
+    "color_nav_dropdown_link": "#000000",
+    "color_mega_heading": "#333",
+    "color_mega_heading_line": "#ddd",
+    "color_mega_link": "#444444",
+    "color_button_hero": "#e067bd",
+    "color_text_hero": "#ffffff",
+    "hero_color_image_overlay_text": "#ffffff",
+    "color_title_collection_list": "#ffffff",
+    "color_image_overlay_text": "#ffffff",
+    "color_image_overlay": "#ffffff",
+    "image_overlay_opacity": 58,
+    "color_bg_em3": "#b5dfd2",
+    "color_text_em3": "#212428",
+    "color_fieldbg_em3": "#ffffff",
+    "color_fieldtext_em3": "#b3b3b3",
+    "color_buttonbg_em3": "#212428",
+    "color_buttonbg_em3_hover": "#ffffff",
+    "color_buttontext_em3": "#b5dfd2",
+    "color_footer_bg": "#212428",
+    "color_text_footer_text": "#ffffff",
+    "color_headingtext_footer": "#b5dfd2",
+    "color_text_footer": "#ffffff",
+    "color_text_footer_hover": "#e067bd",
+    "type_nav_family": "Google_Roboto_400_sans",
+    "type_nav_base_size": "16px",
+    "type_header_family": "Google_Oswald_400_sans",
+    "type_header_base_size": "36px",
+    "type_base_family": "Google_Roboto_400_sans",
+    "type_base_size": "16px",
+    "type_bold_product_titles": false,
+    "color_bg_social_product": "#ffffff",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "color_text_social": "#ffffff",
+    "color_text_social_hover": "#b5dfd2",
+    "social_twitter_link": "https://twitter.com/DiModaHairCare",
+    "social_facebook_link": "https://www.facebook.com/pages/VMHaircare/174790602567792",
+    "social_google_link": "",
+    "social_pinterest_link": "https://www.pinterest.ca/matthewjviers/",
+    "social_instagram_link": "https://www.instagram.com/dimodahair/",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "favicon": "shopify://shop_images/logo_ba924707-c270-4984-a9ee-e36a7c014b1e.png",
+    "sign-up-text-main": "Sign Up For Our Newsletter",
+    "sign-up-text-sub": "Get great deals sent directly to your inbox!",
+    "button-text": "Sign Up",
+    "mailing_list_form_action": "",
+    "Name_Input_ID": "",
+    "Name_Input_Name": "",
+    "Email_Input_ID": "",
+    "Email_Input_Name": "",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#1990c6",
+    "checkout_button_color": "#1990c6",
+    "checkout_error_color": "#ff6d6d",
+    "sign-up-text": "sign up now!",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "1519853936747": {
+            "type": "menu",
+            "settings": {
+              "mega-nav": "",
+              "title": "Menu Heading1"
+            }
+          },
+          "1519854004209": {
+            "type": "menu",
+            "settings": {
+              "mega-nav": "",
+              "title": "Menu Heading"
+            }
+          },
+          "1519853945364": {
+            "type": "menu",
+            "settings": {
+              "mega-nav": "",
+              "title": "Menu Heading"
+            }
+          },
+          "1519853952535": {
+            "type": "menu",
+            "settings": {
+              "mega-nav": "",
+              "title": "Menu Heading"
+            }
+          },
+          "1519853960459": {
+            "type": "image",
+            "settings": {
+              "title": "CTA Heading",
+              "nav_promo_link": "/collections/all"
+            }
+          }
+        },
+        "block_order": [
+          "1519853936747",
+          "1519854004209",
+          "1519853945364",
+          "1519853952535",
+          "1519853960459"
+        ],
+        "settings": {
+          "align_logo": "center",
+          "logo": "shopify://shop_images/logo_ba924707-c270-4984-a9ee-e36a7c014b1e.png",
+          "logo_max_width": "100",
+          "phone_enable": false,
+          "phone_number": "714-457-1618",
+          "message": true,
+          "home_page_only": false,
+          "message_text": "Free shipping at $30!",
+          "message_link": "",
+          "color_bg": "#e067bd",
+          "color_text": "#ffffff",
+          "main_linklist": "main-menu",
+          "mega_enable": true,
+          "megadropdown_link": "Shop All"
+        }
+      },
+      "feature-row": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify://shop_images/NewImage2.jpg",
+          "layout": "left",
+          "title": "OUR PRODUCTS",
+          "text": "<p>Cleanse and fortify your hair with VM Sulfate Free Shampoos and Conditioners. These are especially great if you have chemically-treated hair or texture concerns.</p>\n<p>Use our Rock-n-Roll Styling Paste for effortless style in a matte finish. It's SO quick to use and holds your fantastic look all day!</p>\n<p>Protect and polish your hair with VM Haircare's Make It Pretty Smoothing Serum. The luxurious formula&nbsp;&mdash; which features Macadamia and Argan Oils &mdash; will control frizz, shorten styling time and make your hair shine. This is a must have for blowdrying, straightening, all around protection and pampering.</p>",
+          "button_label": "Shop VM Haircare",
+          "button_link": "shopify://collections/all"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1521036547680": {
+            "type": "text",
+            "settings": {
+              "text": ""
+            }
+          },
+          "1520029629207": {
+            "type": "html",
+            "settings": {
+              "code": "<p class=\"text-center\"><img src=\"https://s3.amazonaws.com/marketing360verticals/ecommerce/img/safe-secure.png\"></p>"
+            }
+          }
+        },
+        "block_order": [
+          "1521036547680",
+          "1520029629207"
+        ],
+        "settings": {
+          "footernav1_label": "Quick Links",
+          "footer_linklist": "footer",
+          "footernav2_label": "Our Store",
+          "footer_linklist_two": "main-menu-2",
+          "footernav3_label": "Policies",
+          "footer_linklist_three": "policies",
+          "imagelink": "/",
+          "footer_newsletter_enable": true,
+          "show_payment_icons": true
+        }
+      },
+      "1504114304372": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify://shop_images/Hero.jpg",
+          "alignment": "top",
+          "title": "HAIRCARE",
+          "text": "<p>MAKE WAVES, NOT COMPROMISES</p>\n<p>FROM CITY BENCH TO SUNNY BEACH</p>",
+          "hero_size": "large",
+          "text_size": "medium",
+          "button_label": "Rock your style",
+          "button_link": "shopify://collections/all"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": "4",
+          "rows": "2",
+          "show_collection_image": false,
+          "show_collection_sidenav": true,
+          "show_collectionnavigation": true,
+          "sidenav_title": "Shop Collection",
+          "show_collectioncustomnav": false,
+          "show_collectioncustomnav_title": "Custom Menu Title",
+          "collection_linklist": "main-menu",
+          "show_collection_facets1": false,
+          "facet_title1": "Shop By Color",
+          "facet_tag1": "Color_",
+          "show_collection_facets2": false,
+          "facet_title2": "Shop By Style",
+          "facet_tag2": "Style_",
+          "show_collection_facets3": false,
+          "facet_title3": "Shop By Brand",
+          "facet_tag3": "Brand_",
+          "show_vendor": false,
+          "sort_enable": false,
+          "tags_enable": true
+        }
+      },
+      "1510776135849": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify://shop_images/NewImage1.jpg",
+          "layout": "right",
+          "title": "Expertly Formulated",
+          "text": "<p>As a expert hair stylist, Matthew J. Viers has seen and heard it all. It started with a calls for an easy-to-use hair styling product that would give natural definition and long-lasting hold. Matt responded with Rock-N-Roll Paste, which became a hit with his clients.</p>\n<p>They wanted more and Matt obliged by launching VM Haircare with a comprehensive range salon-quality of products. Every item is designed to promote lasting beauty, decrease styling time, and protect hair against all types of damage while restoring health.</p>",
+          "button_label": "Learn More",
+          "button_link": "shopify://pages/about-us"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "image_size": "medium",
+          "show_quantity_selector": true,
+          "show_variant_labels": false,
+          "show_swatches": true,
+          "show_vendor": true,
+          "enable_zoom": true,
+          "show_share_buttons": true,
+          "show_related_products": true,
+          "related_title": "Other Products From This Collection",
+          "show_trust_badge": true,
+          "product_tagged_with": "hair",
+          "grid": 3,
+          "trust_badge1": "shopify://shop_images/Hydrating_Icon.png",
+          "trust_badge2": "shopify://shop_images/Sulfate_Free_Icon.png",
+          "trust_badge3": "shopify://shop_images/Damaged_Hair_Icon.png"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1521132844447": {
+            "type": "collection",
+            "settings": {
+              "collection": "hair"
+            }
+          },
+          "1521132851519": {
+            "type": "collection",
+            "settings": {
+              "collection": "apparel"
+            }
+          }
+        },
+        "block_order": [
+          "1521132844447",
+          "1521132851519"
+        ],
+        "settings": {
+          "display_type": "selected",
+          "sort": "alphabetical",
+          "grid": "2"
+        }
+      },
+      "1511982958563": {
+        "type": "custom-content",
+        "blocks": {
+          "1511982958563-0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p>Here at VM Haircare, we believe that everyone should have it all and make no compromises between being stylish and enjoying life to the fullest. Our founder, Matthew J Viers, is an expert hairstylist who wanted to make his philosophy a reality for his clients. Thus VM Haircare was born: a line of products are designed for ease of use, and  formulated for your well-being, so that you can do more while feeling and looking great.<br/></p><p>We carry everything you need to care for, style, and make your hair shine. All of our amazing products are proudly produced with the finest ingredients in beautiful Southern California, our founder's home and daily source of inspiration.  With VM Haircare, you can be the fashion everyday and make waves, not compromises. </p>",
+              "button_label": "",
+              "button_link": "",
+              "width": "100%",
+              "alignment": "top-middle",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1511982958563-0"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "1511986910645": {
+        "type": "collection",
+        "settings": {
+          "title": "fan favorites",
+          "collection": "front-page-featured-products",
+          "grid": 5,
+          "rows": 1,
+          "show_vendor": false,
+          "show_view_all": true
+        }
+      },
+      "1513780138066": {
+        "type": "image-bar",
+        "blocks": {
+          "1513780138066-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/B3C648C0-7F16-4053-9C32-73F576B7D61A.jpeg",
+              "alignment": "center",
+              "link": "",
+              "cta_label": "STYLE"
+            }
+          },
+          "1525269864061": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/vm_matt_education.jpg",
+              "alignment": "center",
+              "link": "shopify://collections/all",
+              "cta_label": "CARE"
+            }
+          },
+          "1513780138066-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/90132B8E-92BF-4018-99D9-561DC6785F46.jpeg",
+              "alignment": "center",
+              "link": "shopify://collections/all",
+              "cta_label": "SHINE"
+            }
+          }
+        },
+        "block_order": [
+          "1513780138066-0",
+          "1525269864061",
+          "1513780138066-1"
+        ],
+        "settings": {
+          "section_height": "medium"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "grid",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "show_share_buttons": true
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": false
+        }
+      }
+    },
+    "content_for_index": [
+      "1504114304372",
+      "1511982958563",
+      "feature-row",
+      "1513780138066",
+      "1510776135849",
+      "1511986910645"
+    ],
+    "blocks": {
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#000000",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
+        }
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "color_text": "#3d4246",
+      "color_body_text": "#788188",
+      "color_sale_text": "#7796A8",
+      "color_borders": "#e8e9eb",
+      "color_button": "#7796A8",
+      "color_button_text": "#fff",
+      "color_small_button": "#fff",
+      "color_small_button_text": "#3d4246",
+      "color_text_field": "#fff",
+      "color_text_field_text": "#000",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#3d4246",
+      "image_overlay_opacity": "25",
+      "color_body_bg": "#fff",
+      "type_header_family": "Google_Work+Sans_600_sans",
+      "type_header_base_size": "26px",
+      "type_base_family": "Google_Work+Sans_400_sans",
+      "type_base_size": "16px",
+      "type_bold_product_titles": false,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {}
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "slideshow-1": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1"
+          ],
+          "settings": {}
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "footer_linklist_two": ""
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "feature-row",
+        "slideshow"
+      ]
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#757575",
+      "color_sale_text": "#ff574f",
+      "color_borders": "#e4e4e4",
+      "color_button": "#ff574f",
+      "color_button_text": "#ffffff",
+      "color_small_button": "#eaeaea",
+      "color_small_button_text": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": "30",
+      "color_body_bg": "#f8f8f8",
+      "type_header_family": "Google_Muli_600_sans",
+      "type_header_base_size": "26px",
+      "type_base_family": "Google_Muli_600_sans",
+      "type_base_size": "18px",
+      "type_bold_product_titles": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "align_logo": "left",
+            "logo": "",
+            "logo_max_width": "135",
+            "main_linklist": "main-menu",
+            "message": true,
+            "color_bg": "#162950",
+            "color_text": "#ffffff"
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "alignment": "center",
+            "hero_size": "x-large",
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            },
+            "1492095993817": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "1492095993817"
+          ],
+          "settings": {
+            "autoplay": true,
+            "autoplay_speed": "6000",
+            "slideshow_height": "medium",
+            "text_size": "medium"
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "grid": 3,
+            "rows": 1,
+            "show_vendor": true,
+            "show_view_all": true
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "footer_linklist": "main-menu",
+            "footer_linklist_two": "footer",
+            "footer_newsletter_enable": true,
+            "show_payment_icons": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "image_size": "medium",
+            "show_quantity_selector": false,
+            "show_variant_labels": true,
+            "show_vendor": false,
+            "enable_zoom": true,
+            "show_share_buttons": true
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "layout": "grid",
+            "grid": "2",
+            "rows": "2",
+            "show_collection_image": true,
+            "show_vendor": false,
+            "sort_enable": true,
+            "tags_enable": true
+          }
+        },
+        "1492033809691": {
+          "type": "map",
+          "settings": {}
+        },
+        "1492033877875": {
+          "type": "quotes",
+          "blocks": {
+            "1492033877875-0": {
+              "type": "quote",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1492033877875-0"
+          ],
+          "settings": {}
+        },
+        "1492033924902": {
+          "type": "custom-content",
+          "blocks": {
+            "1492033924902-0": {
+              "type": "text",
+              "settings": {
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492033924902-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "1492096252560": {
+          "type": "collection-list",
+          "blocks": {
+            "1492096252560-0": {
+              "type": "featured_collection",
+              "settings": {}
+            },
+            "1492096252560-1": {
+              "type": "featured_collection",
+              "settings": {}
+            },
+            "1492096252560-2": {
+              "type": "featured_collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1492096252560-0",
+            "1492096252560-1",
+            "1492096252560-2"
+          ],
+          "settings": {
+            "grid": 3
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "slideshow",
+        "1492033924902",
+        "1492096252560",
+        "1492033877875",
+        "1492033809691"
+      ]
+    }
+  }
+}
